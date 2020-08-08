@@ -2,7 +2,7 @@
 I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 
 ### A bit about me:
-- 🔭 I’m currently seeking roles in Software Engineering and teaching myself all things Computer Science ([check out my study plan here!](https://github.com/peeblesbrandon/CS_and_SWE_study_plan/blob/master/README.md))
+- 🔭 I’m currently seeking roles in Software Engineering and teaching myself all things Computer Science (you can check out my [study plan here!](https://github.com/peeblesbrandon/CS_and_SWE_study_plan/blob/master/README.md))
 - 💼 Previously, I've worked at Uber, Carnival Cruise Line, Disney, and Procter & Gamble
 - 📈 I have a background in Business Strategy, Analytics, and Industrial Engineering
 - 📸 Fun fact: I love photography and drawing!
