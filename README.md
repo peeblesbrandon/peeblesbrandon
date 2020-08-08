@@ -18,8 +18,8 @@ I'm a full-stack Software Engineer 👨🏼‍💻 based in NYC who is passionat
 <br />
 
 ### Find me elsewhere:
-[![Linkedin Badge](https://img.shields.io/badge/-Brandon%20Peebles-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[linkedin])]([linkedin])
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:[email])](mailto:[email])
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brandonpeebles)](https://linkedin.com/in/brandonpeebles)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:peeblesbrandon@gmail.com)](mailto:peeblesbrandon@gmail.com)
 
 <br />
 <br />
