@@ -1,5 +1,5 @@
 ## Hi there, I'm Brandon! 👋
-I'm a full-stack Software Engineer 👨🏼‍💻 based in NYC who is passionate about learning and building creative solutions
+I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 
 ### A bit about me:
 - 🔭 I’m currently seeking roles in Software Engineering and teaching myself all things Computer Science
