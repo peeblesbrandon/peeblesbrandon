@@ -8,8 +8,8 @@ I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 - 📸 Fun fact: I love photography and drawing!
 
 ### Languages and Technologies I use:
-* __Languages:__ Python, JavaScript
-* __Frameworks/Libraries:__ NodeJS, Express, ReactJS, HTML, CSS, Git
+* __Languages:__ Python, JavaScript, HTML, CSS
+* __Frameworks/Libraries:__ NodeJS, Express, ReactJS
 * __Tools:__ Git, Visual Studio
 * __Databases:__ SQL, NoSQL (MongoDB)
 
