@@ -11,7 +11,7 @@ I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 * __Languages:__ Python, JavaScript
 * __Frameworks/Libraries:__ NodeJS, Express, ReactJS, HTML, CSS, Git
 * __Tools:__ Git, Visual Studio
-* __Databases:__ SQL (PostgreSQL/MySQL), NoSQL (MongoDB)
+* __Databases:__ SQL, NoSQL (MongoDB)
 
 ### Find me elsewhere:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brandonpeebles)](https://linkedin.com/in/brandonpeebles)
