@@ -7,7 +7,7 @@ I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 - 📈 I have a background in Business Strategy, Analytics, and Industrial Engineering
 - 📸 Fun fact: I love photography and drawing!
 
-### Languages and Technologies I use:
+### Languages and technologies I use:
 * __Languages:__ Python, JavaScript, HTML, CSS
 * __Frameworks/Libraries:__ NodeJS, Express, ReactJS
 * __Tools:__ Git, Visual Studio
