@@ -11,7 +11,7 @@ I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 * __Languages:__ Python, JavaScript, HTML, CSS
 * __Frameworks/Libraries:__ NodeJS, Express, ReactJS, Reudx, Chai, HelmetJS
 * __Tools:__ Git, Visual Studio, Postman
-* __Databases:__ SQL (PostgreQL), NoSQL (MongoDB)
+* __Databases:__ SQL (PostgreSQL), NoSQL (MongoDB)
 * __OS:__ UNIX
 
 ### Find me elsewhere:
