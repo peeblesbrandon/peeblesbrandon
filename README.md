@@ -2,16 +2,16 @@
 I'm a full-stack Software Engineer based in NYC 👨🏼‍💻
 
 ### A bit about me:
-- 🔭 I’m seeking roles in Software Engineering and teaching myself all things Computer Science (you can check out my [study plan here!](https://github.com/peeblesbrandon/CS_and_SWE_study_plan/blob/master/README.md))
-- 💼 Previously, I've worked at Uber, Carnival Cruise Line, Disney, and Procter & Gamble
-- 📈 I have a background in Industrial Engineering, Business Strategy, and Analytics 
+- 🔭 I’m open to roles in Software/Data/Analyics Engineering
+- 💼 Currently an Analytics Engineer at Zocdoc. Previously, I've worked at Uber, Carnival Cruise Line, Disney, and Procter & Gamble.
+- 📈 I have a background in Industrial Engineering, Business Strategy, and Analytics.
 - 📸 Fun fact: I love photography and drawing!
 
 ### Languages and technologies I use:
 * __Languages:__ Python, JavaScript, HTML, CSS
-* __Frameworks/Libraries:__ NodeJS, Express, ReactJS, Redux, unittest, Chai, PassportJS
+* __Frameworks/Libraries:__ NodeJS, Express, ReactJS, Redux, dbt
 * __Tools:__ Git, Visual Studio, Postman, GitHub Actions, Heroku
-* __Databases:__ SQL (PostgreSQL), NoSQL (MongoDB)
+* __Databases:__ SQL, NoSQL (MongoDB)
 
 ### Find me elsewhere:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/brandonpeebles)](https://linkedin.com/in/brandonpeebles)
