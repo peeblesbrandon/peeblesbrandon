@@ -1,5 +1,5 @@
 ## Hi there, I'm Brandon! 👋
-I'm a Senior Analytics Engineer at Zocdoc based in Seattle 👨🏼‍💻
+I'm a Senior Analytics Engineer at Zocdoc based in NYC 👨🏼‍💻
 
 ### A bit about me:
 - 💼 Senior Analytics Engineer at Zocdoc. Previously, I've worked at Uber, Carnival Cruise Line, Disney, and Procter & Gamble.
